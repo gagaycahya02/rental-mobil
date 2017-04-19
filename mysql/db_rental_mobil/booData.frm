@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `db_rental_mobil`.`transaksisewa`.`NoTransaksi` AS `NoTransaksi`,`db_rental_mobil`.`transaksisewa`.`NIK` AS `NIK`,`db_rental_mobil`.`transaksisewa`.`NoKTP` AS `NoKTP`,`db_rental_mobil`.`transaksisewa`.`TglPesan` AS `TglPesan` from `db_rental_mobil`.`transaksisewa`
+md5=67d3b8b4bb46174962d41532f6da8431
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2017-01-25 17:23:38
+create-version=2
+source=SELECT NoTransaksi,NIK,NoKTP,TglPesan FROM transaksisewa
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_unicode_ci
+view_body_utf8=select `db_rental_mobil`.`transaksisewa`.`NoTransaksi` AS `NoTransaksi`,`db_rental_mobil`.`transaksisewa`.`NIK` AS `NIK`,`db_rental_mobil`.`transaksisewa`.`NoKTP` AS `NoKTP`,`db_rental_mobil`.`transaksisewa`.`TglPesan` AS `TglPesan` from `db_rental_mobil`.`transaksisewa`
+mariadb-version=100119

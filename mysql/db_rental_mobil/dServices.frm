@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `db_rental_mobil`.`service`.`KodeService` AS `KodeService`,`db_rental_mobil`.`service`.`TglService` AS `TglService`,`db_rental_mobil`.`service`.`BiayaService` AS `BiayaService`,`db_rental_mobil`.`service`.`NoPlat` AS `NoPlat`,`db_rental_mobil`.`service`.`IDJenisService` AS `IDJenisService` from `db_rental_mobil`.`service`
+md5=79e393bbcb791ee09a94f98e8d8f26ba
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2017-02-03 16:56:46
+create-version=2
+source=SELECT * FROM service
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_unicode_ci
+view_body_utf8=select `db_rental_mobil`.`service`.`KodeService` AS `KodeService`,`db_rental_mobil`.`service`.`TglService` AS `TglService`,`db_rental_mobil`.`service`.`BiayaService` AS `BiayaService`,`db_rental_mobil`.`service`.`NoPlat` AS `NoPlat`,`db_rental_mobil`.`service`.`IDJenisService` AS `IDJenisService` from `db_rental_mobil`.`service`
+mariadb-version=100119

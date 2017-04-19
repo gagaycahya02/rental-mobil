@@ -1,0 +1,5570 @@
+2017-01-10 16:31:54 8590 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-10 16:31:54 140278296688448 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-10 16:31:54 140278296688448 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 8736 ...
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: Using generic crc32 instructions
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: Creating zip_dict and zip_dict_cols system tables.
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: zip_dict and zip_dict_cols system tables created.
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB: Waiting for purge to start
+2017-01-10 16:31:55 140278296688448 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 1762733
+2017-01-10 16:31:56 140277918459648 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-10 16:31:56 140278296688448 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-10 16:31:56 140278296688448 [Note] Server socket created on IP: '::'.
+2017-01-10 16:31:56 140278296688448 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-01-10 21:33:49 140278196542208 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-10 21:33:51 140278196542208 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-10 21:33:53 140277901674240 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-10 21:33:53 140278196542208 [Note] InnoDB: Starting shutdown...
+2017-01-10 21:33:54 140278196542208 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-10 21:33:55 140278196542208 [Note] InnoDB: Shutdown completed; log sequence number 1768182
+2017-01-10 21:33:55 140278196542208 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-10 21:33:55 8590 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-11 12:30:27 1871 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-11 12:30:28 139760267835200 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-11 12:30:28 139760267835200 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2016 ...
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: Using generic crc32 instructions
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB: Waiting for purge to start
+2017-01-11 12:30:29 139760267835200 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 1768182
+2017-01-11 12:30:29 139759888353024 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-11 12:30:29 139760267835200 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-11 12:30:29 139760267835200 [Note] Server socket created on IP: '::'.
+2017-01-11 12:30:30 139760267835200 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-01-11 12:33:19 139760016608000 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-11 12:33:19 139760016608000 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-11 12:33:19 139759861716736 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-11 12:33:19 139760016608000 [Note] InnoDB: Starting shutdown...
+2017-01-11 12:33:20 139760016608000 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-11 12:33:21 139760016608000 [Note] InnoDB: Shutdown completed; log sequence number 1768192
+2017-01-11 12:33:21 139760016608000 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-11 12:33:21 1871 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-11 12:33:25 2316 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-11 12:33:25 140375447025472 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-11 12:33:25 140375447025472 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2461 ...
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: Using generic crc32 instructions
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-11 12:33:25 140375447025472 [Note] InnoDB: Waiting for purge to start
+2017-01-11 12:33:26 140375447025472 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 1768192
+2017-01-11 12:33:26 140375058523904 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-11 12:33:26 140375447025472 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-11 12:33:26 140375447025472 [Note] Server socket created on IP: '::'.
+2017-01-11 12:33:26 140375447025472 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7fab78009b78:
+
+lock: 0x3a247b8:
+
+lock: 0x3a17418:
+
+lock: 0x39f8528:
+
+lock: 0x3a071c8:
+
+lock: 0x39ebde8:
+
+lock: 0x39e38a8:
+
+lock: 0x39dc268:
+
+lock: 0x39d2fe8:
+
+lock: 0x39c9038:
+
+lock: 0x39bd278:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          3
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         17
+Open tables:           11
+Open files:            25
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 8425472
+Number of free chunks:			 47
+Number of fastbin blocks:		 23
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 1424
+Total allocated space:			 5123408
+Total free space:			 3302064
+Top-most, releasable space:		 132576
+Estimated memory (with thread stack):    174862336
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          5
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         17
+Open tables:            0
+Open files:             5
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 8425472
+Number of free chunks:			 86
+Number of fastbin blocks:		 64
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 3664
+Total allocated space:			 4710144
+Total free space:			 3715328
+Top-most, releasable space:		 132576
+Estimated memory (with thread stack):    174862336
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-11 19:50:54 140375372868352 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-11 19:50:54 140375372868352 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-11 19:50:54 140375041738496 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-11 19:50:54 140375372868352 [Note] InnoDB: Starting shutdown...
+2017-01-11 19:50:55 140375372868352 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-11 19:50:55 140375372868352 [Note] InnoDB: Shutdown completed; log sequence number 1768202
+2017-01-11 19:50:55 140375372868352 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-11 19:50:55 2316 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-13 14:37:13 1643 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-13 14:37:14 140054122379072 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-13 14:37:14 140054122379072 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 1789 ...
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: Using generic crc32 instructions
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB: Waiting for purge to start
+2017-01-13 14:37:15 140054122379072 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 1768202
+2017-01-13 14:37:15 140053833598720 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-13 14:37:16 140054122379072 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-13 14:37:16 140054122379072 [Note] Server socket created on IP: '::'.
+2017-01-13 14:37:16 140054122379072 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-01-13 15:04:13 140053870754560 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-13 15:04:13 140053870754560 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-13 15:04:14 140053816813312 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-13 15:04:14 140053870754560 [Note] InnoDB: Starting shutdown...
+2017-01-13 15:04:15 140053870754560 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-13 15:04:15 140053870754560 [Note] InnoDB: Shutdown completed; log sequence number 1781665
+2017-01-13 15:04:16 140053870754560 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-13 15:04:16 1643 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-16 16:30:16 2071 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-16 16:30:17 140423383041856 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-16 16:30:17 140423383041856 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2217 ...
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: Using generic crc32 instructions
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-16 16:30:18 140423383041856 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-16 16:30:19 140423383041856 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-16 16:30:19 140423383041856 [Note] InnoDB: Waiting for purge to start
+2017-01-16 16:30:19 140423383041856 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 1781665
+2017-01-16 16:30:19 140423007823616 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-16 16:30:19 140423383041856 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-16 16:30:19 140423383041856 [Note] Server socket created on IP: '::'.
+2017-01-16 16:30:19 140423383041856 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-01-16 16:32:22 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:22 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:22 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:22 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : Start merge-sorting index `PRIMARY` (1 / 1), estimated cost : 20.0000
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : End of  merge-sorting index `PRIMARY` (1 / 1)
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : Start building index `PRIMARY` (1 / 1), estimated cost : 30.0000
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : End of building index `PRIMARY` (1 / 1)
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:23 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:24 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:24 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:24 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:24 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:24 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:24 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:24 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:24 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:25 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:25 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:25 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:25 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:25 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:25 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:25 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:25 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:26 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:26 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:26 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:26 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:26 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:26 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:26 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:26 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : Completed
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : Start
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-16 16:32:27 140423131511552 [Note] InnoDB: Online DDL : Completed
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      2017-01-16 21:42:03 1669 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-16 21:42:04 139773354309440 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-16 21:42:04 139773354309440 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 1821 ...
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Using generic crc32 instructions
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: The log sequence numbers 1781665 and 1781665 in ibdata files do not match the log sequence number 2098613 in the ib_logfiles!
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Database was not shutdown normally!
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Starting crash recovery.
+2017-01-16 21:42:05 139773354309440 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-01-16 21:42:06 139773354309440 [Note] InnoDB: Restoring possible half-written data pages 
+2017-01-16 21:42:06 139773354309440 [Note] InnoDB: from the doublewrite buffer...
+2017-01-16 21:42:07 139773354309440 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-16 21:42:07 139773354309440 [Note] InnoDB: Waiting for purge to start
+2017-01-16 21:42:07 139773354309440 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2098613
+2017-01-16 21:42:07 139772966188800 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-16 21:42:08 139773354309440 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-16 21:42:08 139773354309440 [Note] Recovering after a crash using tc.log
+2017-01-16 21:42:08 139773354309440 [Note] Starting crash recovery...
+2017-01-16 21:42:08 139773354309440 [Note] Crash recovery finished.
+2017-01-16 21:42:08 139773354309440 [Note] Server socket created on IP: '::'.
+2017-01-16 21:42:08 139773354309440 [ERROR] mysqld: Table './mysql/user' is marked as crashed and should be repaired
+2017-01-16 21:42:08 139773354309440 [Warning] Checking table:   './mysql/user'
+2017-01-16 21:42:08 139773354309440 [ERROR] mysql.user: 1 client is using or hasn't closed the table properly
+2017-01-16 21:42:08 139773354309440 [ERROR] mysqld: Table './mysql/db' is marked as crashed and should be repaired
+2017-01-16 21:42:08 139773354309440 [Warning] Checking table:   './mysql/db'
+2017-01-16 21:42:08 139773354309440 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2017-01-16 21:42:08 139773354309440 [ERROR] mysqld: Table './mysql/tables_priv' is marked as crashed and should be repaired
+2017-01-16 21:42:08 139773354309440 [Warning] Checking table:   './mysql/tables_priv'
+2017-01-16 21:42:08 139773354309440 [ERROR] mysql.tables_priv: 1 client is using or hasn't closed the table properly
+2017-01-16 21:42:08 139773354309440 [ERROR] mysqld: Table './mysql/columns_priv' is marked as crashed and should be repaired
+2017-01-16 21:42:08 139773354309440 [Warning] Checking table:   './mysql/columns_priv'
+2017-01-16 21:42:08 139773354309440 [ERROR] mysql.columns_priv: 1 client is using or hasn't closed the table properly
+2017-01-16 21:42:08 139773354309440 [ERROR] mysqld: Table './mysql/procs_priv' is marked as crashed and should be repaired
+2017-01-16 21:42:08 139773354309440 [Warning] Checking table:   './mysql/procs_priv'
+2017-01-16 21:42:08 139773354309440 [ERROR] mysql.procs_priv: 1 client is using or hasn't closed the table properly
+2017-01-16 21:42:08 139773354309440 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7f1f44009908:
+
+lock: 0x28b3bf8:
+
+lock: 0x2884a58:
+
+lock: 0x287d378:
+
+lock: 0x2875498:
+
+lock: 0x28a00e8:
+
+lock: 0x2897ba8:
+
+lock: 0x2890758:
+
+lock: 0x28666f8:
+
+lock: 0x2839698:
+
+lock: 0x282c878:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:             5
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:             12
+reads:                  12
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          3
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         22
+Open tables:           11
+Open files:            25
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 28688384
+Number of free chunks:			 50
+Number of fastbin blocks:		 4
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 368
+Total allocated space:			 5248048
+Total free space:			 23440336
+Top-most, releasable space:		 20054848
+Estimated memory (with thread stack):    195125248
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-16 22:09:30 139773271759616 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-16 22:09:30 139773271759616 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-16 22:09:30 139772949403392 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-16 22:09:30 139773271759616 [Note] InnoDB: Starting shutdown...
+2017-01-16 22:09:30 139773271759616 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-16 22:09:31 139773271759616 [Note] InnoDB: Shutdown completed; log sequence number 2098623
+2017-01-16 22:09:31 139773271759616 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-16 22:09:31 1669 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-17 07:37:10 1790 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-17  7:37:11 140418889049920 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-17  7:37:11 140418889049920 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 1936 ...
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: Using generic crc32 instructions
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB: Waiting for purge to start
+2017-01-17  7:37:12 140418889049920 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2098623
+2017-01-17  7:37:13 140418633103104 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-17  7:37:13 140418889049920 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-17  7:37:13 140418889049920 [Note] Server socket created on IP: '::'.
+2017-01-17  7:37:13 140418889049920 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7fb58800ba68:
+
+lock: 0x7fb58c051448:
+
+lock: 0x7fb590024d98:
+
+lock: 0x7fb58c049f28:
+
+lock: 0x7fb5900ad628:
+
+lock: 0x7fb59009b7c8:
+
+lock: 0x7fb59009ad18:
+
+lock: 0x7fb59008ff68:
+
+lock: 0x7fb59008ee58:
+
+lock: 0x7fb590089178:
+
+lock: 0x7fb590084a38:
+
+lock: 0x7fb59007e008:
+
+lock: 0x7fb59007a4e8:
+
+lock: 0x7fb590032da8:
+
+lock: 0x7fb59002f2d8:
+
+lock: 0x7fb59000caf8:
+
+lock: 0x7fb58c03dad8:
+
+lock: 0x7fb58c014138:
+
+lock: 0x7fb58c01cac8:
+
+lock: 0x7fb58c013fe8:
+
+lock: 0x7fb58c010e48:
+
+lock: 0x7fb58c02e7a8:
+
+lock: 0x7fb58c028db8:
+
+lock: 0x7fb58c020858:
+
+lock: 0x7fb598009b78:
+
+lock: 0x21b6868:
+
+lock: 0x21a94c8:
+
+lock: 0x219b1a8:
+
+lock: 0x2188938:
+
+lock: 0x217d978:
+
+lock: 0x2175438:
+
+lock: 0x216e018:
+
+lock: 0x2164dc8:
+
+lock: 0x215ae18:
+
+lock: 0x1dc5948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:             52
+writes:                 42
+r_requests:             80
+reads:                  14
+
+
+handler status:
+read_key:           99
+read_next:          10
+read_rnd            80
+read_first:         69
+write:              12
+delete               4
+update:              4
+
+Table status:
+Opened tables:         41
+Open tables:           35
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 10678272
+Number of free chunks:			 153
+Number of fastbin blocks:		 50
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 3552
+Total allocated space:			 5933568
+Total free space:			 4744704
+Top-most, releasable space:		 134576
+Estimated memory (with thread stack):    177115136
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-17  5:32:48 140418637318912 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-17  5:32:48 140418637318912 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-17  5:32:48 140418494744320 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-17  5:32:48 140418637318912 [Note] InnoDB: Starting shutdown...
+2017-01-17  5:32:50 140418637318912 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-17  5:32:50 140418637318912 [Note] InnoDB: Shutdown completed; log sequence number 2109584
+2017-01-17  5:32:50 140418637318912 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-17 05:32:50 1790 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-17 10:53:26 1705 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-17 10:53:27 140216430565184 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-17 10:53:27 140216430565184 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 1850 ...
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: Using generic crc32 instructions
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB: Waiting for purge to start
+2017-01-17 10:53:28 140216430565184 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2109584
+2017-01-17 10:53:28 140216174053120 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-17 10:53:29 140216430565184 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-17 10:53:29 140216430565184 [Note] Server socket created on IP: '::'.
+2017-01-17 10:53:29 140216430565184 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7f865c06b898:
+
+lock: 0x7f86680099c8:
+
+lock: 0x7f8668011708:
+
+lock: 0x7f866800c468:
+
+lock: 0x7f865c030138:
+
+lock: 0x7f86700099d8:
+
+lock: 0x7f8670005798:
+
+lock: 0x7f867003dad8:
+
+lock: 0x7f8670014138:
+
+lock: 0x7f867001cac8:
+
+lock: 0x7f8670013fe8:
+
+lock: 0x7f8670010e48:
+
+lock: 0x7f867002e7a8:
+
+lock: 0x7f8670028db8:
+
+lock: 0x7f8670020858:
+
+lock: 0x7f866c009b78:
+
+lock: 0x2c0a0d8:
+
+lock: 0x2bfcd38:
+
+lock: 0x2beea18:
+
+lock: 0x2bdc1a8:
+
+lock: 0x2bd11e8:
+
+lock: 0x2bc8ca8:
+
+lock: 0x2bc1888:
+
+lock: 0x2bb8638:
+
+lock: 0x2bae688:
+
+lock: 0x2818948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:             52
+writes:                 42
+r_requests:             80
+reads:                  14
+
+
+handler status:
+read_key:          119
+read_next:          18
+read_rnd            52
+read_first:         72
+write:              12
+delete              10
+update:              4
+
+Table status:
+Opened tables:         32
+Open tables:           26
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 10555392
+Number of free chunks:			 132
+Number of fastbin blocks:		 51
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 3360
+Total allocated space:			 5778464
+Total free space:			 4776928
+Top-most, releasable space:		 132416
+Estimated memory (with thread stack):    176992256
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-17 13:37:47 140216322026240 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-17 13:37:48 140216322026240 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-17 13:37:49 140216035694336 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-17 13:37:49 140216322026240 [Note] InnoDB: Starting shutdown...
+2017-01-17 13:37:51 140216322026240 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-17 13:37:51 140216322026240 [Note] InnoDB: Shutdown completed; log sequence number 2121688
+2017-01-17 13:37:51 140216322026240 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-17 13:37:51 1705 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-19 10:55:54 2143 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-19 10:55:55 140108060288832 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-19 10:55:55 140108060288832 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2288 ...
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: Using generic crc32 instructions
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB: Waiting for purge to start
+2017-01-19 10:55:56 140108060288832 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2121688
+2017-01-19 10:55:57 140107803731712 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-19 10:55:57 140108060288832 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-19 10:55:57 140108060288832 [Note] Server socket created on IP: '::'.
+2017-01-19 10:55:57 140108060288832 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7f6d3804b7c8:
+
+lock: 0x7f6d3000af68:
+
+lock: 0x7f6d38036728:
+
+lock: 0x7f6d2c072768:
+
+lock: 0x7f6d2c0138d8:
+
+lock: 0x7f6d2c0482b8:
+
+lock: 0x7f6d380426e8:
+
+lock: 0x7f6d3803be98:
+
+lock: 0x7f6d3801f258:
+
+lock: 0x7f6d38016688:
+
+lock: 0x7f6d38015a18:
+
+lock: 0x7f6d3802feb8:
+
+lock: 0x7f6d3802f328:
+
+lock: 0x7f6d38003e68:
+
+lock: 0x7f6d380029d8:
+
+lock: 0x7f6d34009b78:
+
+lock: 0x3ded798:
+
+lock: 0x3de03f8:
+
+lock: 0x3dd20d8:
+
+lock: 0x3dbf868:
+
+lock: 0x3db48a8:
+
+lock: 0x3dac368:
+
+lock: 0x3da4f48:
+
+lock: 0x3d9bcf8:
+
+lock: 0x3d91d48:
+
+lock: 0x39fb948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:             52
+writes:                 42
+r_requests:             80
+reads:                  14
+
+
+handler status:
+read_key:           50
+read_next:           6
+read_rnd            40
+read_first:         32
+write:               6
+delete               4
+update:              2
+
+Table status:
+Opened tables:         32
+Open tables:           26
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 10100736
+Number of free chunks:			 129
+Number of fastbin blocks:		 29
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 2080
+Total allocated space:			 5762960
+Total free space:			 4337776
+Top-most, releasable space:		 134784
+Estimated memory (with thread stack):    176537600
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-19 12:18:00 140107943054080 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-19 12:18:00 140107943054080 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-19 12:18:01 140107654878976 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-19 12:18:01 140107943054080 [Note] InnoDB: Starting shutdown...
+2017-01-19 12:18:02 140107943054080 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-19 12:18:03 140107943054080 [Note] InnoDB: Shutdown completed; log sequence number 2122904
+2017-01-19 12:18:03 140107943054080 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-19 12:18:03 2143 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-20 14:33:43 2306 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-20 14:33:44 139808552564544 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-20 14:33:44 139808552564544 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2452 ...
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: Using generic crc32 instructions
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB: Waiting for purge to start
+2017-01-20 14:33:45 139808552564544 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2122904
+2017-01-20 14:33:46 139808243312384 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-20 14:33:46 139808552564544 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-20 14:33:46 139808552564544 [Note] Server socket created on IP: '::'.
+2017-01-20 14:33:46 139808552564544 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-01-20 15:49:49 139808440650496 [Note] InnoDB: Online DDL : Start
+2017-01-20 15:49:49 139808440650496 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-20 15:49:49 139808440650496 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-20 15:49:49 139808440650496 [Note] InnoDB: Online DDL : Completed
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x367c1a8:
+
+lock: 0x7f27680325a8:
+
+lock: 0x7f276802b698:
+
+lock: 0x7f27680234a8:
+
+lock: 0x7f276404ca98:
+
+lock: 0x7f276404e298:
+
+lock: 0x7f27640263e8:
+
+lock: 0x7f276402cf08:
+
+lock: 0x7f276402a8f8:
+
+lock: 0x7f27640163c8:
+
+lock: 0x7f2768013e18:
+
+lock: 0x7f276800a888:
+
+lock: 0x7f2764016278:
+
+lock: 0x7f276401cce8:
+
+lock: 0x7f2764011a78:
+
+lock: 0x7f277000f058:
+
+lock: 0x7f276400c688:
+
+lock: 0x7f276c00ba68:
+
+lock: 0x7f277000c688:
+
+lock: 0x7f27740320a8:
+
+lock: 0x7f27740803f8:
+
+lock: 0x7f2774044538:
+
+lock: 0x7f277403db38:
+
+lock: 0x7f2774037078:
+
+lock: 0x7f2774014528:
+
+lock: 0x7f27740193b8:
+
+lock: 0x7f27740112a8:
+
+lock: 0x7f277402b0f8:
+
+lock: 0x7f277402a2c8:
+
+lock: 0x7f2774020a28:
+
+lock: 0x7f2780009b78:
+
+lock: 0x3654798:
+
+lock: 0x36473f8:
+
+lock: 0x36390d8:
+
+lock: 0x3626868:
+
+lock: 0x361b8a8:
+
+lock: 0x3613368:
+
+lock: 0x360bf48:
+
+lock: 0x3602cf8:
+
+lock: 0x35f8d48:
+
+lock: 0x3262948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:             52
+writes:                 42
+r_requests:            136
+reads:                  14
+
+
+handler status:
+read_key:          629
+read_next:          36
+read_rnd           384
+read_first:        611
+write:              48
+delete               4
+update:             42
+
+Table status:
+Opened tables:         50
+Open tables:           41
+Open files:            33
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 11137024
+Number of free chunks:			 203
+Number of fastbin blocks:		 42
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 2992
+Total allocated space:			 6125584
+Total free space:			 5011440
+Top-most, releasable space:		 134784
+Estimated memory (with thread stack):    177573888
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-20 20:43:42 139808440347392 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-20 20:43:42 139808440347392 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-20 20:43:43 139808156411648 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-20 20:43:43 139808440347392 [Note] InnoDB: Starting shutdown...
+2017-01-20 20:43:43 139808440347392 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-20 20:43:44 139808440347392 [Note] InnoDB: Shutdown completed; log sequence number 2211678
+2017-01-20 20:43:44 139808440347392 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-20 20:43:44 2306 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-21 10:43:27 1816 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-21 10:43:27 140203829258048 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-21 10:43:27 140203829258048 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 1962 ...
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: Using generic crc32 instructions
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB: Waiting for purge to start
+2017-01-21 10:43:28 140203829258048 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2211678
+2017-01-21 10:43:29 140203515193088 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-21 10:43:29 140203829258048 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-21 10:43:29 140203829258048 [Note] Server socket created on IP: '::'.
+2017-01-21 10:43:29 140203829258048 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7f83840029d8:
+
+lock: 0x7f8380009b78:
+
+lock: 0x215ed88:
+
+lock: 0x21519e8:
+
+lock: 0x21436c8:
+
+lock: 0x2130e58:
+
+lock: 0x2125e98:
+
+lock: 0x211d958:
+
+lock: 0x2116538:
+
+lock: 0x210d2e8:
+
+lock: 0x2103338:
+
+lock: 0x1d6b948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:             0
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              0
+reads:                   0
+
+
+handler status:
+read_key:            0
+read_next:           0
+read_rnd             0
+read_first:          3
+write:               0
+delete               0
+update:              0
+
+Table status:
+Opened tables:         18
+Open tables:           12
+Open files:            25
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 8986624
+Number of free chunks:			 60
+Number of fastbin blocks:		 46
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 2864
+Total allocated space:			 5237328
+Total free space:			 3749296
+Top-most, releasable space:		 133264
+Estimated memory (with thread stack):    175423488
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-21  5:32:05 140203577830144 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-21  5:32:05 140203577830144 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-21  5:32:05 140203427620608 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-21  5:32:05 140203577830144 [Note] InnoDB: Starting shutdown...
+2017-01-21  5:32:07 140203577830144 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-21  5:32:08 140203577830144 [Note] InnoDB: Shutdown completed; log sequence number 2211688
+2017-01-21  5:32:08 140203577830144 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-21 05:32:08 1816 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-21 20:54:20 1933 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-21 20:54:21 140581843265344 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-21 20:54:21 140581843265344 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2078 ...
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: Using generic crc32 instructions
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-21 20:54:21 140581843265344 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-21 20:54:22 140581843265344 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-21 20:54:22 140581843265344 [Note] InnoDB: Waiting for purge to start
+2017-01-21 20:54:22 140581843265344 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2211688
+2017-01-21 20:54:22 140581460244224 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-21 20:54:22 140581843265344 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-21 20:54:22 140581843265344 [Note] Server socket created on IP: '::'.
+2017-01-21 20:54:22 140581843265344 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7fdb800e5d68:
+
+lock: 0x7fdb8400aaa8:
+
+lock: 0x7fdb8400b808:
+
+lock: 0x7fdb80061068:
+
+lock: 0x7fdb780028e8:
+
+lock: 0x7fdb800e1098:
+
+lock: 0x7fdb800d9988:
+
+lock: 0x7fdb800c9748:
+
+lock: 0x7fdb800c8628:
+
+lock: 0x7fdb800be7c8:
+
+lock: 0x7fdb800bd448:
+
+lock: 0x7fdb800b32b8:
+
+lock: 0x7fdb800b21a8:
+
+lock: 0x7fdb800aea38:
+
+lock: 0x7fdb800676b8:
+
+lock: 0x7fdb8001efe8:
+
+lock: 0x7fdb800426e8:
+
+lock: 0x7fdb8003be98:
+
+lock: 0x7fdb8001eb68:
+
+lock: 0x7fdb80016688:
+
+lock: 0x7fdb80015a18:
+
+lock: 0x7fdb8002feb8:
+
+lock: 0x7fdb8002f328:
+
+lock: 0x7fdb80003e68:
+
+lock: 0x7fdb800029d8:
+
+lock: 0x7fdb8c009b78:
+
+lock: 0x316ed88:
+
+lock: 0x31619e8:
+
+lock: 0x31536c8:
+
+lock: 0x3140e58:
+
+lock: 0x3135e98:
+
+lock: 0x312d958:
+
+lock: 0x3126538:
+
+lock: 0x311d2e8:
+
+lock: 0x3113338:
+
+lock: 0x2d7b948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:             52
+writes:                 42
+r_requests:             80
+reads:                  14
+
+
+handler status:
+read_key:          165
+read_next:          12
+read_rnd           103
+read_first:        156
+write:              13
+delete               4
+update:              9
+
+Table status:
+Opened tables:         42
+Open tables:           36
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 10469376
+Number of free chunks:			 154
+Number of fastbin blocks:		 31
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 2352
+Total allocated space:			 5966720
+Total free space:			 4502656
+Top-most, releasable space:		 133264
+Estimated memory (with thread stack):    176906240
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-23  9:20:03 140581734726400 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-23  9:20:03 140581734726400 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-23  9:20:03 140581435033344 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-23  9:20:03 140581734726400 [Note] InnoDB: Starting shutdown...
+2017-01-23  9:20:05 140581734726400 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-23  9:20:06 140581734726400 [Note] InnoDB: Shutdown completed; log sequence number 2221660
+2017-01-23  9:20:06 140581734726400 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-23 09:20:06 1933 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-23 09:44:44 2029 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-23  9:44:46 140443626493760 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-23  9:44:46 140443626493760 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2175 ...
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: Using generic crc32 instructions
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-23  9:44:46 140443626493760 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-23  9:44:47 140443626493760 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-23  9:44:47 140443626493760 [Note] InnoDB: Waiting for purge to start
+2017-01-23  9:44:47 140443626493760 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2221660
+2017-01-23  9:44:47 140443370284800 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-23  9:44:47 140443626493760 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-23  9:44:47 140443626493760 [Note] Server socket created on IP: '::'.
+2017-01-23  9:44:47 140443626493760 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7fbb500a2bb8:
+
+lock: 0x7fbb5009e5a8:
+
+lock: 0x7fbb50085448:
+
+lock: 0x7fbb50096ea8:
+
+lock: 0x7fbb50096d58:
+
+lock: 0x7fbb5007ae38:
+
+lock: 0x7fbb5006ebf8:
+
+lock: 0x7fbb5008a268:
+
+lock: 0x7fbb50071378:
+
+lock: 0x7fbb5005e0c8:
+
+lock: 0x7fbb54014648:
+
+lock: 0x7fbb5400bae8:
+
+lock: 0x7fbb50036558:
+
+lock: 0x7fbb50036338:
+
+lock: 0x7fbb500366b8:
+
+lock: 0x7fbb5004b1d8:
+
+lock: 0x7fbb54046f28:
+
+lock: 0x7fbb50042588:
+
+lock: 0x7fbb5003bac8:
+
+lock: 0x7fbb500226b8:
+
+lock: 0x7fbb5001db98:
+
+lock: 0x7fbb50015a68:
+
+lock: 0x7fbb5002fb48:
+
+lock: 0x7fbb50004b58:
+
+lock: 0x7fbb50025018:
+
+lock: 0x7fbb50003e68:
+
+lock: 0x7fbb5c009b78:
+
+lock: 0x35bdd88:
+
+lock: 0x35b09e8:
+
+lock: 0x35a26c8:
+
+lock: 0x358fe58:
+
+lock: 0x3584e98:
+
+lock: 0x357c958:
+
+lock: 0x3575538:
+
+lock: 0x356c2e8:
+
+lock: 0x3562338:
+
+lock: 0x31ca948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:             52
+writes:                 42
+r_requests:            112
+reads:                  14
+
+
+handler status:
+read_key:          227
+read_next:          25
+read_rnd           143
+read_first:        180
+write:              10
+delete               6
+update:              6
+
+Table status:
+Opened tables:         43
+Open tables:           37
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 10973184
+Number of free chunks:			 157
+Number of fastbin blocks:		 112
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 7248
+Total allocated space:			 6021136
+Total free space:			 4952048
+Top-most, releasable space:		 133264
+Estimated memory (with thread stack):    177410048
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-23 13:54:18 140443373288192 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-23 13:54:18 140443373288192 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-23 13:54:20 140443148875520 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-23 13:54:20 140443373288192 [Note] InnoDB: Starting shutdown...
+2017-01-23 13:54:22 140443373288192 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-23 13:54:23 140443373288192 [Note] InnoDB: Shutdown completed; log sequence number 2228817
+2017-01-23 13:54:23 140443373288192 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-23 13:54:23 2029 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-23 14:13:05 1990 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-23 14:13:06 140508803606336 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-23 14:13:06 140508803606336 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2137 ...
+2017-01-23 14:13:06 140508803606336 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: Using generic crc32 instructions
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB: Waiting for purge to start
+2017-01-23 14:13:07 140508803606336 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2228817
+2017-01-23 14:13:07 140508548486912 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-23 14:13:07 140508803606336 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-23 14:13:07 140508803606336 [Note] Server socket created on IP: '::'.
+2017-01-23 14:13:08 140508803606336 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7fca8000bb28:
+
+lock: 0x7fca78093ce8:
+
+lock: 0x7fca78090718:
+
+lock: 0x7fca7808b458:
+
+lock: 0x7fca7808a678:
+
+lock: 0x7fca78082d08:
+
+lock: 0x7fca78082038:
+
+lock: 0x7fca78071508:
+
+lock: 0x7fca78077688:
+
+lock: 0x7fca78025078:
+
+lock: 0x7fca800057c8:
+
+lock: 0x7fca80004758:
+
+lock: 0x7fca7c0674a8:
+
+lock: 0x7fca7c0ab758:
+
+lock: 0x7fca7c06d028:
+
+lock: 0x7fca80009c68:
+
+lock: 0x7fca7c043f58:
+
+lock: 0x7fca7c022a68:
+
+lock: 0x7fca7c01d0e8:
+
+lock: 0x7fca7c01c588:
+
+lock: 0x7fca7c019a78:
+
+lock: 0x7fca7c002a68:
+
+lock: 0x7fca7c032918:
+
+lock: 0x7fca7c027a68:
+
+lock: 0x7fca7c003e68:
+
+lock: 0x7fca88009b78:
+
+lock: 0x291ed88:
+
+lock: 0x29119e8:
+
+lock: 0x29036c8:
+
+lock: 0x28f0e58:
+
+lock: 0x28e5e98:
+
+lock: 0x28dd958:
+
+lock: 0x28d6538:
+
+lock: 0x28cd2e8:
+
+lock: 0x28c3338:
+
+lock: 0x252b948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:            222
+writes:                178
+r_requests:            842
+reads:                  14
+
+
+handler status:
+read_key:          720
+read_next:         330
+read_rnd           801
+read_first:        760
+write:              34
+delete              22
+update:              2
+
+Table status:
+Opened tables:         43
+Open tables:           36
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 11493376
+Number of free chunks:			 167
+Number of fastbin blocks:		 33
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 2400
+Total allocated space:			 6009808
+Total free space:			 5483568
+Top-most, releasable space:		 133264
+Estimated memory (with thread stack):    177930240
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-24  0:53:54 140508552096512 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-24  0:53:54 140508552096512 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-24  0:53:56 140508403836672 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-24  0:53:56 140508552096512 [Note] InnoDB: Starting shutdown...
+2017-01-24  0:53:57 140508552096512 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-24  0:53:58 140508552096512 [Note] InnoDB: Shutdown completed; log sequence number 2285389
+2017-01-24  0:53:58 140508552096512 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-24 00:53:58 1990 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-24 17:22:35 4270 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-24 17:22:36 139978961794880 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-24 17:22:36 139978961794880 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 4414 ...
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: Using generic crc32 instructions
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB: Waiting for purge to start
+2017-01-24 17:22:37 139978961794880 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2285389
+2017-01-24 17:22:38 139978579355392 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-24 17:22:38 139978961794880 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-24 17:22:38 139978961794880 [Note] Server socket created on IP: '::'.
+2017-01-24 17:22:38 139978961794880 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7f4f18006bf8:
+
+lock: 0x7f4f1c069478:
+
+lock: 0x7f4f2003eda8:
+
+lock: 0x7f4f200e88f8:
+
+lock: 0x7f4f1c06bb68:
+
+lock: 0x7f4f200e7ad8:
+
+lock: 0x7f4f200deb08:
+
+lock: 0x7f4f200e4528:
+
+lock: 0x7f4f200d82a8:
+
+lock: 0x7f4f200d6dc8:
+
+lock: 0x7f4f200c6588:
+
+lock: 0x7f4f200c2208:
+
+lock: 0x7f4f200c1798:
+
+lock: 0x7f4f20007aa8:
+
+lock: 0x7f4f20007958:
+
+lock: 0x7f4f20052c68:
+
+lock: 0x7f4f2004bfe8:
+
+lock: 0x7f4f200348b8:
+
+lock: 0x7f4f200316a8:
+
+lock: 0x7f4f200412b8:
+
+lock: 0x7f4f200169f8:
+
+lock: 0x7f4f20039028:
+
+lock: 0x7f4f2000b298:
+
+lock: 0x7f4f20011088:
+
+lock: 0x7f4f1c0029d8:
+
+lock: 0x7f4f28009b78:
+
+lock: 0x2e94378:
+
+lock: 0x2e86fd8:
+
+lock: 0x2e78cb8:
+
+lock: 0x2e66448:
+
+lock: 0x2e5b488:
+
+lock: 0x2e52f48:
+
+lock: 0x2e4bb28:
+
+lock: 0x2e428d8:
+
+lock: 0x2e38928:
+
+lock: 0x2a9f948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:             52
+writes:                 42
+r_requests:            122
+reads:                  14
+
+
+handler status:
+read_key:          288
+read_next:          49
+read_rnd           168
+read_first:        253
+write:              21
+delete               5
+update:             11
+
+Table status:
+Opened tables:         43
+Open tables:           36
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 11284480
+Number of free chunks:			 176
+Number of fastbin blocks:		 50
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 3664
+Total allocated space:			 6015472
+Total free space:			 5269008
+Top-most, releasable space:		 131744
+Estimated memory (with thread stack):    177721344
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-25  6:15:04 139978710321920 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-25  6:15:05 139978710321920 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-25  6:15:05 139978352883456 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-25  6:15:05 139978710321920 [Note] InnoDB: Starting shutdown...
+2017-01-25  6:15:06 139978710321920 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-25  6:15:07 139978710321920 [Note] InnoDB: Shutdown completed; log sequence number 2319951
+2017-01-25  6:15:07 139978710321920 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-25 06:15:07 4270 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-25 10:23:08 1681 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-25 10:23:09 140464340150080 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-25 10:23:09 140464340150080 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 1827 ...
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: Using generic crc32 instructions
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB: Waiting for purge to start
+2017-01-25 10:23:10 140464340150080 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2319951
+2017-01-25 10:23:11 140464034334464 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-25 10:23:11 140464340150080 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-25 10:23:11 140464340150080 [Note] Server socket created on IP: '::'.
+2017-01-25 10:23:11 140464340150080 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7fc0200125f8:
+
+lock: 0x7fc028023768:
+
+lock: 0x7fc0280b72e8:
+
+lock: 0x7fc028083868:
+
+lock: 0x7fc028040f68:
+
+lock: 0x7fc024034a98:
+
+lock: 0x7fc02401abb8:
+
+lock: 0x7fc0280afe38:
+
+lock: 0x7fc0280ab218:
+
+lock: 0x7fc0280a08e8:
+
+lock: 0x7fc02808aa68:
+
+lock: 0x7fc028095358:
+
+lock: 0x7fc02808dea8:
+
+lock: 0x7fc0280898f8:
+
+lock: 0x7fc028076ea8:
+
+lock: 0x7fc02800b0c8:
+
+lock: 0x7fc028012358:
+
+lock: 0x7fc02402abd8:
+
+lock: 0x7fc024024388:
+
+lock: 0x7fc02401d5f8:
+
+lock: 0x7fc0240186b8:
+
+lock: 0x7fc024002b18:
+
+lock: 0x7fc0240029d8:
+
+lock: 0x7fc030009b78:
+
+lock: 0x3469528:
+
+lock: 0x345c188:
+
+lock: 0x344de68:
+
+lock: 0x343b5f8:
+
+lock: 0x3430638:
+
+lock: 0x34280f8:
+
+lock: 0x3420cd8:
+
+lock: 0x3417a88:
+
+lock: 0x340dad8:
+
+lock: 0x3074948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:             2
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:            150
+reads:                   2
+
+
+handler status:
+read_key:          300
+read_next:         124
+read_rnd           303
+read_first:        380
+write:              18
+delete               0
+update:             18
+
+Table status:
+Opened tables:         40
+Open tables:           34
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 11309056
+Number of free chunks:			 144
+Number of fastbin blocks:		 54
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 3760
+Total allocated space:			 5964432
+Total free space:			 5344624
+Top-most, releasable space:		 131312
+Estimated memory (with thread stack):    177745920
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-25 19:02:45 140464223218432 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-25 19:02:45 140464223218432 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-25 19:02:45 140463935837952 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-25 19:02:45 140464223218432 [Note] InnoDB: Starting shutdown...
+2017-01-25 19:02:46 140464223218432 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-25 19:02:47 140464223218432 [Note] InnoDB: Shutdown completed; log sequence number 2340148
+2017-01-25 19:02:47 140464223218432 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-25 19:02:47 1681 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-25 22:14:16 2653 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-25 22:14:17 139891337230144 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-25 22:14:17 139891337230144 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2797 ...
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: Using generic crc32 instructions
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB: Waiting for purge to start
+2017-01-25 22:14:17 139891337230144 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2340148
+2017-01-25 22:14:18 139891023181568 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-25 22:14:18 139891337230144 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-25 22:14:18 139891337230144 [Note] Server socket created on IP: '::'.
+2017-01-25 22:14:18 139891337230144 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-01-25 23:34:15 139891085236992 [Note] InnoDB: Online DDL : Start
+2017-01-25 23:34:15 139891085236992 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-25 23:34:15 139891085236992 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-25 23:34:15 139891085236992 [Note] InnoDB: Online DDL : Completed
+2017-01-26  1:30:51 139891085540096 [Note] InnoDB: Online DDL : Start
+2017-01-26  1:30:51 139891085540096 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-01-26  1:30:51 139891085540096 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-01-26  1:30:51 139891085540096 [Note] InnoDB: Online DDL : Start merge-sorting index `PRIMARY` (1 / 1), estimated cost : 20.0000
+2017-01-26  1:30:51 139891085540096 [Note] InnoDB: Online DDL : End of  merge-sorting index `PRIMARY` (1 / 1)
+2017-01-26  1:30:51 139891085540096 [Note] InnoDB: Online DDL : Start building index `PRIMARY` (1 / 1), estimated cost : 30.0000
+2017-01-26  1:30:51 139891085540096 [Note] InnoDB: Online DDL : End of building index `PRIMARY` (1 / 1)
+2017-01-26  1:30:51 139891085540096 [Note] InnoDB: Online DDL : Completed
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7f3ab40164c8:
+
+lock: 0x7f3ab40272f8:
+
+lock: 0x7f3ab4023218:
+
+lock: 0x7f3ab401bb58:
+
+lock: 0x7f3abc06b778:
+
+lock: 0x7f3ab000db28:
+
+lock: 0x7f3abc0d2198:
+
+lock: 0x7f3abc0c8538:
+
+lock: 0x7f3abc0c83e8:
+
+lock: 0x7f3abc0cdfc8:
+
+lock: 0x7f3abc0c5588:
+
+lock: 0x7f3abc0399a8:
+
+lock: 0x7f3abc06e348:
+
+lock: 0x7f3abc009358:
+
+lock: 0x7f3abc00e548:
+
+lock: 0x7f3abc01ecd8:
+
+lock: 0x7f3abc042718:
+
+lock: 0x7f3ab8048528:
+
+lock: 0x7f3ab8041988:
+
+lock: 0x7f3ab8024538:
+
+lock: 0x7f3ab8021328:
+
+lock: 0x7f3ab801e3d8:
+
+lock: 0x7f3ab8017128:
+
+lock: 0x7f3ab8036f98:
+
+lock: 0x7f3ab802c0e8:
+
+lock: 0x7f3ab8002b18:
+
+lock: 0x7f3ab80029d8:
+
+lock: 0x7f3ac4009b78:
+
+lock: 0x2c546d8:
+
+lock: 0x2c47338:
+
+lock: 0x2c39018:
+
+lock: 0x2c267a8:
+
+lock: 0x2c1b7e8:
+
+lock: 0x2c132a8:
+
+lock: 0x2c0be88:
+
+lock: 0x2c02c38:
+
+lock: 0x2bf8c88:
+
+lock: 0x285f948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:            122
+writes:                 98
+r_requests:           1190
+reads:                  14
+
+
+handler status:
+read_key:         2758
+read_next:        2255
+read_rnd          2453
+read_first:       3491
+write:             153
+delete              16
+update:            130
+
+Table status:
+Opened tables:         48
+Open tables:           38
+Open files:            31
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 12206080
+Number of free chunks:			 238
+Number of fastbin blocks:		 18
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 1552
+Total allocated space:			 6187264
+Total free space:			 6018816
+Top-most, releasable space:		 134976
+Estimated memory (with thread stack):    178642944
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-01-27 22:22:25 139891085540096 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-27 22:22:25 139891085540096 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-27 22:22:26 139891006396160 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-27 22:22:26 139891085540096 [Note] InnoDB: Starting shutdown...
+2017-01-27 22:22:30 139891085540096 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-27 22:22:31 139891085540096 [Note] InnoDB: Shutdown completed; log sequence number 2576532
+2017-01-27 22:22:31 139891085540096 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-27 22:22:31 2653 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-28 05:37:13 1683 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-28  5:37:14 140468554667840 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-28  5:37:14 140468554667840 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 1831 ...
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: Using generic crc32 instructions
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-28  5:37:15 140468554667840 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-28  5:37:16 140468554667840 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-28  5:37:16 140468554667840 [Note] InnoDB: Waiting for purge to start
+2017-01-28  5:37:16 140468554667840 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2576532
+2017-01-28  5:37:17 140468298835712 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-28  5:37:17 140468554667840 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-28  5:37:17 140468554667840 [Note] Server socket created on IP: '::'.
+2017-01-28  5:37:17 140468554667840 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-01-29 15:36:53 140468451449600 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-29 15:36:56 140468451449600 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-29 15:36:59 140468155303680 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-29 15:36:59 140468451449600 [Note] InnoDB: Starting shutdown...
+2017-01-29 15:37:00 140468451449600 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-29 15:37:01 140468451449600 [Note] InnoDB: Shutdown completed; log sequence number 2576542
+2017-01-29 15:37:01 140468451449600 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-29 15:37:01 1683 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-31 10:33:36 2130 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-31 10:33:37 140325565179712 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-31 10:33:37 140325565179712 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2275 ...
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: Using generic crc32 instructions
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB: Waiting for purge to start
+2017-01-31 10:33:38 140325565179712 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2576542
+2017-01-31 10:33:39 140325259495168 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-31 10:33:39 140325565179712 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-31 10:33:39 140325565179712 [Note] Server socket created on IP: '::'.
+2017-01-31 10:33:39 140325565179712 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-01-31 13:49:55 140325313460992 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-01-31 13:49:55 140325313460992 [Note] Event Scheduler: Purging the queue. 0 events
+2017-01-31 13:49:55 140325171492608 [Note] InnoDB: FTS optimize thread exiting.
+2017-01-31 13:49:55 140325313460992 [Note] InnoDB: Starting shutdown...
+2017-01-31 13:49:56 140325313460992 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-01-31 13:49:57 140325313460992 [Note] InnoDB: Shutdown completed; log sequence number 2614994
+2017-01-31 13:49:57 140325313460992 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-01-31 13:49:57 2130 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-01-31 14:53:14 4332 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-01-31 14:53:15 140376782677824 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-01-31 14:53:15 140376782677824 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 4478 ...
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: Using generic crc32 instructions
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: Completed initialization of buffer pool
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-01-31 14:53:16 140376782677824 [Note] InnoDB: Waiting for purge to start
+2017-01-31 14:53:17 140376782677824 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2614994
+2017-01-31 14:53:17 140376527476480 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-01-31 14:53:17 140376782677824 [Note] Plugin 'FEEDBACK' is disabled.
+2017-01-31 14:53:17 140376782677824 [Note] Server socket created on IP: '::'.
+2017-01-31 14:53:17 140376782677824 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-02 18:57:14 2020 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-02 18:57:14 139713652164416 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-02 18:57:15 139713652164416 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2172 ...
+2017-02-02 18:57:15 139713652164416 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-02 18:57:15 139713652164416 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-02 18:57:15 139713652164416 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-02 18:57:15 139713652164416 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-02 18:57:15 139713652164416 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-02 18:57:15 139713652164416 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-02 18:57:15 139713652164416 [Note] InnoDB: Using generic crc32 instructions
+2017-02-02 18:57:15 139713652164416 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-02 18:57:15 139713652164416 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-02 18:57:16 139713652164416 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-02 18:57:16 139713652164416 [Note] InnoDB: The log sequence numbers 2614994 and 2614994 in ibdata files do not match the log sequence number 2633463 in the ib_logfiles!
+2017-02-02 18:57:16 139713652164416 [Note] InnoDB: Database was not shutdown normally!
+2017-02-02 18:57:16 139713652164416 [Note] InnoDB: Starting crash recovery.
+2017-02-02 18:57:16 139713652164416 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-02-02 18:57:16 139713652164416 [Note] InnoDB: Restoring possible half-written data pages 
+2017-02-02 18:57:16 139713652164416 [Note] InnoDB: from the doublewrite buffer...
+2017-02-02 18:57:17 139713652164416 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-02 18:57:17 139713652164416 [Note] InnoDB: Waiting for purge to start
+2017-02-02 18:57:17 139713652164416 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2633463
+2017-02-02 18:57:17 139713264477952 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-02 18:57:17 139713652164416 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-02 18:57:17 139713652164416 [Note] Recovering after a crash using tc.log
+2017-02-02 18:57:17 139713652164416 [Note] Starting crash recovery...
+2017-02-02 18:57:17 139713652164416 [Note] Crash recovery finished.
+2017-02-02 18:57:17 139713652164416 [Note] Server socket created on IP: '::'.
+2017-02-02 18:57:17 139713652164416 [ERROR] mysqld: Table './mysql/db' is marked as crashed and should be repaired
+2017-02-02 18:57:17 139713652164416 [Warning] Checking table:   './mysql/db'
+2017-02-02 18:57:17 139713652164416 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2017-02-02 18:57:17 139713652164416 [ERROR] mysqld: Table './mysql/tables_priv' is marked as crashed and should be repaired
+2017-02-02 18:57:17 139713652164416 [Warning] Checking table:   './mysql/tables_priv'
+2017-02-02 18:57:17 139713652164416 [ERROR] mysql.tables_priv: 1 client is using or hasn't closed the table properly
+2017-02-02 18:57:17 139713652164416 [ERROR] mysqld: Table './mysql/columns_priv' is marked as crashed and should be repaired
+2017-02-02 18:57:17 139713652164416 [Warning] Checking table:   './mysql/columns_priv'
+2017-02-02 18:57:17 139713652164416 [ERROR] mysql.columns_priv: 1 client is using or hasn't closed the table properly
+2017-02-02 18:57:17 139713652164416 [ERROR] mysqld: Table './mysql/procs_priv' is marked as crashed and should be repaired
+2017-02-02 18:57:17 139713652164416 [Warning] Checking table:   './mysql/procs_priv'
+2017-02-02 18:57:17 139713652164416 [ERROR] mysql.procs_priv: 1 client is using or hasn't closed the table properly
+2017-02-02 18:57:17 139713652164416 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7f11580112e8:
+
+lock: 0x7f115c05ba68:
+
+lock: 0x7f115c061e48:
+
+lock: 0x7f115c04b6f8:
+
+lock: 0x7f115c04ee38:
+
+lock: 0x7f116003b048:
+
+lock: 0x7f115c049aa8:
+
+lock: 0x7f115c03ffb8:
+
+lock: 0x7f115c03c3c8:
+
+lock: 0x7f115c035fc8:
+
+lock: 0x7f115c023918:
+
+lock: 0x7f115c02c9a8:
+
+lock: 0x7f115c029038:
+
+lock: 0x7f115c019868:
+
+lock: 0x7f115c0184b8:
+
+lock: 0x7f115c004ae8:
+
+lock: 0x7f115c0029d8:
+
+lock: 0x7f1168009908:
+
+lock: 0x2a81fd8:
+
+lock: 0x2a10dd8:
+
+lock: 0x2a09318:
+
+lock: 0x2a36068:
+
+lock: 0x2a2a6c8:
+
+lock: 0x2a221b8:
+
+lock: 0x2a1ad68:
+
+lock: 0x29f0e58:
+
+lock: 0x29e54f8:
+
+lock: 0x29d9b28:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:             5
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:             34
+reads:                  12
+
+
+handler status:
+read_key:           35
+read_next:          46
+read_rnd            51
+read_first:         36
+write:               2
+delete               0
+update:              2
+
+Table status:
+Opened tables:         38
+Open tables:           28
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 30732288
+Number of free chunks:			 152
+Number of fastbin blocks:		 21
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 1520
+Total allocated space:			 5893856
+Total free space:			 24838432
+Top-most, releasable space:		 20054160
+Estimated memory (with thread stack):    197169152
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-02-02 20:16:14 139713543625472 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-02-02 20:16:14 139713543625472 [Note] Event Scheduler: Purging the queue. 0 events
+2017-02-02 20:16:14 139713247692544 [Note] InnoDB: FTS optimize thread exiting.
+2017-02-02 20:16:14 139713543625472 [Note] InnoDB: Starting shutdown...
+2017-02-02 20:16:15 139713543625472 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-02-02 20:16:16 139713543625472 [Note] InnoDB: Shutdown completed; log sequence number 2635735
+2017-02-02 20:16:16 139713543625472 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-02-02 20:16:16 2020 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-02-02 21:23:43 3152 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-02 21:23:44 140484750358336 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-02 21:23:44 140484750358336 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 3308 ...
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: Using generic crc32 instructions
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-02 21:23:45 140484750358336 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-02 21:23:46 140484750358336 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-02 21:23:46 140484750358336 [Note] InnoDB: Waiting for purge to start
+2017-02-02 21:23:46 140484750358336 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2635735
+2017-02-02 21:23:47 140484435556096 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-02 21:23:47 140484750358336 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-02 21:23:47 140484750358336 [Note] Server socket created on IP: '::'.
+2017-02-02 21:23:47 140484750358336 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7fc4ec03d7b8:
+
+lock: 0x7fc4ec03b378:
+
+lock: 0x7fc4ec032cc8:
+
+lock: 0x7fc4ec026658:
+
+lock: 0x7fc4ec025588:
+
+lock: 0x7fc4ec01dc08:
+
+lock: 0x7fc4ec00fcd8:
+
+lock: 0x7fc4ec013038:
+
+lock: 0x7fc4ec003e68:
+
+lock: 0x7fc4e8009b78:
+
+lock: 0x30afb18:
+
+lock: 0x30a2778:
+
+lock: 0x3094458:
+
+lock: 0x3081be8:
+
+lock: 0x3076c28:
+
+lock: 0x306e6e8:
+
+lock: 0x30672c8:
+
+lock: 0x305e078:
+
+lock: 0x30540c8:
+
+lock: 0x2cb9948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:             2
+not flushed:             0
+w_requests:              0
+writes:                  0
+r_requests:              4
+reads:                   2
+
+
+handler status:
+read_key:            7
+read_next:           4
+read_rnd             0
+read_first:          5
+write:               1
+delete               0
+update:              1
+
+Table status:
+Opened tables:         26
+Open tables:           20
+Open files:            27
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 9621504
+Number of free chunks:			 82
+Number of fastbin blocks:		 32
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 2192
+Total allocated space:			 5516096
+Total free space:			 4105408
+Top-most, releasable space:		 133888
+Estimated memory (with thread stack):    176058368
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-02-03  7:35:24 140484689914624 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-02-03  7:35:24 140484689914624 [Note] Event Scheduler: Purging the queue. 0 events
+2017-02-03  7:35:24 140484345325312 [Note] InnoDB: FTS optimize thread exiting.
+2017-02-03  7:35:24 140484689914624 [Note] InnoDB: Starting shutdown...
+2017-02-03  7:35:25 140484689914624 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-02-03  7:35:26 140484689914624 [Note] InnoDB: Shutdown completed; log sequence number 2636593
+2017-02-03  7:35:26 140484689914624 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-02-03 07:35:26 3152 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-02-03 08:21:53 2304 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-03  8:21:54 140375374853952 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-03  8:21:54 140375374853952 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2450 ...
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: Using generic crc32 instructions
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-03  8:21:54 140375374853952 [Note] InnoDB: Waiting for purge to start
+2017-02-03  8:21:55 140375374853952 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2636593
+2017-02-03  8:21:55 140374991415040 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-03  8:21:55 140375374853952 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-03  8:21:55 140375374853952 [Note] Server socket created on IP: '::'.
+2017-02-03  8:21:55 140375374853952 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-03 20:46:24 140375302494976 [Note] InnoDB: Online DDL : Start
+2017-02-03 20:46:24 140375302494976 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-02-03 20:46:24 140375302494976 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-02-03 20:46:24 140375302494976 [Note] InnoDB: Online DDL : Completed
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7fab5c04af38:
+
+lock: 0x7fab600399a8:
+
+lock: 0x7fab600298d8:
+
+lock: 0x7fab6001bbc8:
+
+lock: 0x7fab5c044958:
+
+lock: 0x7fab5c0389f8:
+
+lock: 0x7fab5c037cf8:
+
+lock: 0x7fab5c015de8:
+
+lock: 0x7fab5c01e7f8:
+
+lock: 0x7fab5c01ee38:
+
+lock: 0x7fab60007078:
+
+lock: 0x7fab5c00f878:
+
+lock: 0x7fab6000c4d8:
+
+lock: 0x7fab5c00d458:
+
+lock: 0x7fab5c0029a8:
+
+lock: 0x7fab6400ab48:
+
+lock: 0x7fab70011dc8:
+
+lock: 0x7fab6c031d48:
+
+lock: 0x7fab700654b8:
+
+lock: 0x7fab7009d118:
+
+lock: 0x7fab6c01e658:
+
+lock: 0x7fab6c035f48:
+
+lock: 0x7fab6c01e058:
+
+lock: 0x7fab6c018638:
+
+lock: 0x7fab6c010e48:
+
+lock: 0x7fab6c02e7a8:
+
+lock: 0x7fab6c028db8:
+
+lock: 0x7fab6c020858:
+
+lock: 0x7fab78009b78:
+
+lock: 0x3ea4b18:
+
+lock: 0x3e97778:
+
+lock: 0x3e89458:
+
+lock: 0x3e76be8:
+
+lock: 0x3e6bc28:
+
+lock: 0x3e636e8:
+
+lock: 0x3e5c2c8:
+
+lock: 0x3e53078:
+
+lock: 0x3e490c8:
+
+lock: 0x3aae948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:            104
+writes:                 84
+r_requests:            410
+reads:                  14
+
+
+handler status:
+read_key:          355
+read_next:         350
+read_rnd           381
+read_first:        240
+write:              29
+delete               8
+update:             14
+
+Table status:
+Opened tables:         49
+Open tables:           39
+Open files:            31
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 13811712
+Number of free chunks:			 235
+Number of fastbin blocks:		 36
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 2688
+Total allocated space:			 6268832
+Total free space:			 7542880
+Top-most, releasable space:		 2214656
+Estimated memory (with thread stack):    180248576
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-02-03 22:48:45 140375302798080 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-02-03 22:48:45 140375302798080 [Note] Event Scheduler: Purging the queue. 0 events
+2017-02-03 22:48:46 140374899160832 [Note] InnoDB: FTS optimize thread exiting.
+2017-02-03 22:48:46 140375302798080 [Note] InnoDB: Starting shutdown...
+2017-02-03 22:48:47 140375302798080 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-02-03 22:48:48 140375302798080 [Note] InnoDB: Shutdown completed; log sequence number 2702058
+2017-02-03 22:48:48 140375302798080 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-02-03 22:48:48 2304 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-02-03 22:54:01 2194 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-03 22:54:01 140445943600960 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-03 22:54:01 140445943600960 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2340 ...
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: Using generic crc32 instructions
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB: Waiting for purge to start
+2017-02-03 22:54:02 140445943600960 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2702058
+2017-02-03 22:54:03 140445556401920 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-03 22:54:03 140445943600960 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-03 22:54:03 140445943600960 [Note] Server socket created on IP: '::'.
+2017-02-03 22:54:03 140445943600960 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-04  8:43:16 140445834459904 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-02-04  8:43:16 140445834459904 [Note] Event Scheduler: Purging the queue. 0 events
+2017-02-04  8:43:17 140445539616512 [Note] InnoDB: FTS optimize thread exiting.
+2017-02-04  8:43:17 140445834459904 [Note] InnoDB: Starting shutdown...
+2017-02-04  8:43:18 140445834459904 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-02-04  8:43:19 140445834459904 [Note] InnoDB: Shutdown completed; log sequence number 2718451
+2017-02-04  8:43:19 140445834459904 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-02-04 08:43:19 2194 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-02-04 19:05:35 2618 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-04 19:05:36 140230372407104 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-04 19:05:36 140230372407104 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2764 ...
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: Using generic crc32 instructions
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-04 19:05:36 140230372407104 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-04 19:05:37 140230372407104 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-04 19:05:37 140230372407104 [Note] InnoDB: Waiting for purge to start
+2017-02-04 19:05:37 140230372407104 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2718451
+2017-02-04 19:05:37 140230011123456 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-04 19:05:37 140230372407104 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-04 19:05:37 140230372407104 [Note] Server socket created on IP: '::'.
+2017-02-04 19:05:37 140230372407104 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-05  9:50:17 140230280354560 [Note] InnoDB: Online DDL : Start
+2017-02-05  9:50:17 140230280354560 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-02-05  9:50:17 140230280354560 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-02-05  9:50:17 140230280354560 [Note] InnoDB: Online DDL : Start merge-sorting index `PRIMARY` (1 / 1), estimated cost : 20.0000
+2017-02-05  9:50:17 140230280354560 [Note] InnoDB: Online DDL : End of  merge-sorting index `PRIMARY` (1 / 1)
+2017-02-05  9:50:17 140230280354560 [Note] InnoDB: Online DDL : Start building index `PRIMARY` (1 / 1), estimated cost : 30.0000
+2017-02-05  9:50:17 140230280354560 [Note] InnoDB: Online DDL : End of building index `PRIMARY` (1 / 1)
+2017-02-05  9:50:17 140230280354560 [Note] InnoDB: Online DDL : Completed
+
+Status information:
+
+Current dir: /opt/lampp/var/mysql/
+Running threads: 0  Stack size: 295936
+Current locks:
+lock: 0x7f89900030f8:
+
+lock: 0x7f89ac06a438:
+
+lock: 0x7f89ac01e178:
+
+lock: 0x7f89ac062988:
+
+lock: 0x7f899801f7c8:
+
+lock: 0x7f8998018108:
+
+lock: 0x7f899800b178:
+
+lock: 0x7f89ac058dd8:
+
+lock: 0x7f89ac041108:
+
+lock: 0x7f89ac040d98:
+
+lock: 0x7f89a401d2e8:
+
+lock: 0x7f89a401b038:
+
+lock: 0x7f89a400e738:
+
+lock: 0x7f89a401fba8:
+
+lock: 0x7f89a00b30f8:
+
+lock: 0x7f89a0064a88:
+
+lock: 0x7f89a0043cf8:
+
+lock: 0x7f89ac037db8:
+
+lock: 0x7f89ac02e728:
+
+lock: 0x7f89ac025a88:
+
+lock: 0x7f89ac0246e8:
+
+lock: 0x7f89ac0100a8:
+
+lock: 0x7f89ac00f508:
+
+lock: 0x7f89a803d188:
+
+lock: 0x7f89a80366c8:
+
+lock: 0x7f89a8014ad8:
+
+lock: 0x7f89a800f7e8:
+
+lock: 0x7f89a801b868:
+
+lock: 0x7f89a802e0c8:
+
+lock: 0x7f89a8028db8:
+
+lock: 0x7f89a8020858:
+
+lock: 0x7f89b4009b78:
+
+lock: 0x3fe4cb8:
+
+lock: 0x3fd7918:
+
+lock: 0x3fc95f8:
+
+lock: 0x3fb6dd8:
+
+lock: 0x3fabe18:
+
+lock: 0x3fa38d8:
+
+lock: 0x3f9c4b8:
+
+lock: 0x3f93238:
+
+lock: 0x3f89288:
+
+lock: 0x3bed948:
+
+lock: 0x1c265c0:
+
+lock: 0x1c264e0:
+
+lock: 0x1c25520:
+
+lock: 0x1c25440:
+
+lock: 0x1c25360:
+
+lock: 0x1c256e0:
+
+lock: 0x1c23920:
+
+lock: 0x1c26400:
+
+lock: 0x1c24020:
+
+lock: 0x1c242c0:
+
+lock: 0x1c23f40:
+
+lock: 0x1c241e0:
+
+lock: 0x1c23e60:
+
+lock: 0x1c24100:
+
+lock: 0x1c24800:
+
+lock: 0x1c24720:
+
+lock: 0x1c24640:
+
+lock: 0x1c23d80:
+
+lock: 0x1c23ae0:
+
+lock: 0x1c23ca0:
+
+lock: 0x1c23a00:
+
+lock: 0x1c23bc0:
+
+lock: 0x1c24560:
+
+lock: 0x1c24480:
+
+lock: 0x1c243a0:
+
+lock: 0x1c26080:
+
+lock: 0x1c26320:
+
+lock: 0x1c26240:
+
+lock: 0x1c26160:
+
+lock: 0x1c25d00:
+
+lock: 0x1c25c20:
+
+lock: 0x1c25b40:
+
+lock: 0x1c25a60:
+
+lock: 0x1c25980:
+
+lock: 0x1c25ec0:
+
+lock: 0x1c258a0:
+
+lock: 0x1c257c0:
+
+lock: 0x1c25de0:
+
+lock: 0x1c25600:
+
+lock: 0x1c251a0:
+
+lock: 0x1c25280:
+
+lock: 0x1c250c0:
+
+lock: 0x1c24fe0:
+
+lock: 0x1c24c60:
+
+lock: 0x1c24f00:
+
+lock: 0x1c24e20:
+
+lock: 0x1c24b80:
+
+lock: 0x1c24d40:
+
+lock: 0x1c24aa0:
+
+lock: 0x1c249c0:
+
+lock: 0x1c248e0:
+
+lock: 0x1c25fa0:
+
+
+Key caches:
+default
+Buffer_size:      16777216
+Block_size:           1024
+Division_limit:        100
+Age_threshold:         300
+Partitions:              0
+blocks used:            25
+not flushed:             0
+w_requests:             52
+writes:                 42
+r_requests:            246
+reads:                  14
+
+
+handler status:
+read_key:          771
+read_next:         464
+read_rnd           927
+read_first:        472
+write:              50
+delete               4
+update:             24
+
+Table status:
+Opened tables:         54
+Open tables:           42
+Open files:            33
+Open streams:           0
+
+Alarm status:
+Active alarms:   0
+Max used alarms: 0
+Next alarm time: 0
+
+Memory status:
+Non-mmapped space allocated from system: 11894784
+Number of free chunks:			 224
+Number of fastbin blocks:		 37
+Number of mmapped regions:		 15
+Space in mmapped regions:		 166436864
+Maximum total allocated space:		 0
+Space available in freed fastbin blocks: 2544
+Total allocated space:			 6320896
+Total free space:			 5573888
+Top-most, releasable space:		 133840
+Estimated memory (with thread stack):    178331648
+
+
+
+Events status:
+LLA = Last Locked At  LUA = Last Unlocked At
+WOC = Waiting On Condition  DL = Data Locked
+
+Event scheduler status:
+State      : INITIALIZED
+Thread id  : 0
+LLA        : n/a:0
+LUA        : n/a:0
+WOC        : NO
+Workers    : 0
+Executed   : 0
+Data locked: NO
+
+Event queue status:
+Element count   : 0
+Data locked     : NO
+Attempting lock : NO
+LLA             : init_queue:140
+LUA             : init_queue:150
+WOC             : NO
+Next activation : never
+2017-02-05 14:53:37 140230280354560 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-02-05 14:53:37 140230280354560 [Note] Event Scheduler: Purging the queue. 0 events
+2017-02-05 14:53:40 140229994338048 [Note] InnoDB: FTS optimize thread exiting.
+2017-02-05 14:53:40 140230280354560 [Note] InnoDB: Starting shutdown...
+2017-02-05 14:53:42 140230280354560 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-02-05 14:53:43 140230280354560 [Note] InnoDB: Shutdown completed; log sequence number 2876824
+2017-02-05 14:53:43 140230280354560 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-02-05 14:53:43 2618 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-02-05 14:57:50 2224 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-05 14:57:51 140541296408384 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-05 14:57:51 140541296408384 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2367 ...
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: Using generic crc32 instructions
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB: Waiting for purge to start
+2017-02-05 14:57:52 140541296408384 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 2876824
+2017-02-05 14:57:53 140540909704960 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-05 14:57:53 140541296408384 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-05 14:57:53 140541296408384 [Note] Server socket created on IP: '::'.
+2017-02-05 14:57:53 140541296408384 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-05 18:54:49 140541195963136 [Note] InnoDB: Online DDL : Start
+2017-02-05 18:54:49 140541195963136 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-02-05 18:54:49 140541195963136 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-02-05 18:54:49 140541195963136 [Note] InnoDB: Online DDL : Start merge-sorting index `PRIMARY` (1 / 1), estimated cost : 20.0000
+2017-02-05 18:54:49 140541195963136 [Note] InnoDB: Online DDL : End of  merge-sorting index `PRIMARY` (1 / 1)
+2017-02-05 18:54:49 140541195963136 [Note] InnoDB: Online DDL : Start building index `PRIMARY` (1 / 1), estimated cost : 30.0000
+2017-02-05 18:54:49 140541195963136 [Note] InnoDB: Online DDL : End of building index `PRIMARY` (1 / 1)
+2017-02-05 18:54:49 140541195963136 [Note] InnoDB: Online DDL : Completed
+2017-02-06  8:26:06 140541195963136 [Note] InnoDB: Online DDL : Start
+2017-02-06  8:26:06 140541195963136 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-02-06  8:26:06 140541195963136 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-02-06  8:26:06 140541195963136 [Note] InnoDB: Online DDL : Start merge-sorting index `PRIMARY` (1 / 1), estimated cost : 20.0000
+2017-02-06  8:26:06 140541195963136 [Note] InnoDB: Online DDL : End of  merge-sorting index `PRIMARY` (1 / 1)
+2017-02-06  8:26:06 140541195963136 [Note] InnoDB: Online DDL : Start building index `PRIMARY` (1 / 1), estimated cost : 30.0000
+2017-02-06  8:26:06 140541195963136 [Note] InnoDB: Online DDL : End of building index `PRIMARY` (1 / 1)
+2017-02-06  8:26:06 140541195963136 [Note] InnoDB: Online DDL : Completed
+2017-02-06 13:41:31 140541195963136 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-02-06 13:41:33 140541195963136 [Note] Event Scheduler: Purging the queue. 0 events
+2017-02-06 13:41:35 140540892919552 [Note] InnoDB: FTS optimize thread exiting.
+2017-02-06 13:41:35 140541195963136 [Note] InnoDB: Starting shutdown...
+2017-02-06 13:41:36 140541195963136 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-02-06 13:41:37 140541195963136 [Note] InnoDB: Shutdown completed; log sequence number 3068521
+2017-02-06 13:41:37 140541195963136 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-02-06 13:41:38 2224 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-02-06 13:44:14 2155 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-06 13:44:15 139644131170112 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-06 13:44:15 139644131170112 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2304 ...
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: Using generic crc32 instructions
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-06 13:44:15 139644131170112 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-06 13:44:16 139644131170112 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-06 13:44:16 139644131170112 [Note] InnoDB: Waiting for purge to start
+2017-02-06 13:44:16 139644131170112 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 3068521
+2017-02-06 13:44:16 139643873879808 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-06 13:44:16 139644131170112 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-06 13:44:17 139644131170112 [Note] Server socket created on IP: '::'.
+2017-02-06 13:44:17 139644131170112 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-07  4:22:40 139644022332160 [Note] InnoDB: Online DDL : Start
+2017-02-07  4:22:40 139644022332160 [Note] InnoDB: Online DDL : Start reading clustered index of the table and create temporary files
+2017-02-07  4:22:40 139644022332160 [Note] InnoDB: Online DDL : End of reading clustered index of the table and create temporary files
+2017-02-07  4:22:40 139644022332160 [Note] InnoDB: Online DDL : Completed
+2017-02-07 08:32:00 2038 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-07  8:32:01 140008849848128 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-07  8:32:01 140008849848128 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2182 ...
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Using generic crc32 instructions
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: The log sequence numbers 3068521 and 3068521 in ibdata files do not match the log sequence number 3432605 in the ib_logfiles!
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Database was not shutdown normally!
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Starting crash recovery.
+2017-02-07  8:32:03 140008849848128 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-02-07  8:32:04 140008849848128 [Note] InnoDB: Restoring possible half-written data pages 
+2017-02-07  8:32:04 140008849848128 [Note] InnoDB: from the doublewrite buffer...
+2017-02-07  8:32:05 140008849848128 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-07  8:32:05 140008849848128 [Note] InnoDB: Waiting for purge to start
+2017-02-07  8:32:06 140008849848128 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 3432605
+2017-02-07  8:32:06 140008585377536 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-07  8:32:06 140008849848128 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-07  8:32:06 140008849848128 [Note] Recovering after a crash using tc.log
+2017-02-07  8:32:06 140008849848128 [Note] Starting crash recovery...
+2017-02-07  8:32:06 140008849848128 [Note] Crash recovery finished.
+2017-02-07  8:32:06 140008849848128 [Note] Server socket created on IP: '::'.
+2017-02-07  8:32:06 140008849848128 [ERROR] mysqld: Table './mysql/db' is marked as crashed and should be repaired
+2017-02-07  8:32:06 140008849848128 [Warning] Checking table:   './mysql/db'
+2017-02-07  8:32:06 140008849848128 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2017-02-07  8:32:06 140008849848128 [ERROR] mysqld: Table './mysql/tables_priv' is marked as crashed and should be repaired
+2017-02-07  8:32:06 140008849848128 [Warning] Checking table:   './mysql/tables_priv'
+2017-02-07  8:32:06 140008849848128 [ERROR] mysql.tables_priv: 1 client is using or hasn't closed the table properly
+2017-02-07  8:32:06 140008849848128 [ERROR] mysqld: Table './mysql/columns_priv' is marked as crashed and should be repaired
+2017-02-07  8:32:06 140008849848128 [Warning] Checking table:   './mysql/columns_priv'
+2017-02-07  8:32:06 140008849848128 [ERROR] mysql.columns_priv: 1 client is using or hasn't closed the table properly
+2017-02-07  8:32:06 140008849848128 [ERROR] mysqld: Table './mysql/procs_priv' is marked as crashed and should be repaired
+2017-02-07  8:32:06 140008849848128 [Warning] Checking table:   './mysql/procs_priv'
+2017-02-07  8:32:06 140008849848128 [ERROR] mysql.procs_priv: 1 client is using or hasn't closed the table properly
+2017-02-07  8:32:07 140008849848128 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-08 09:10:57 8139 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-08  9:10:58 140009004033856 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-08  9:10:58 140009004033856 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 8284 ...
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Using generic crc32 instructions
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: The log sequence numbers 3068521 and 3068521 in ibdata files do not match the log sequence number 3454307 in the ib_logfiles!
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Database was not shutdown normally!
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Starting crash recovery.
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: Restoring possible half-written data pages 
+2017-02-08  9:10:59 140009004033856 [Note] InnoDB: from the doublewrite buffer...
+2017-02-08  9:11:00 140009004033856 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-08  9:11:00 140009004033856 [Note] InnoDB: Waiting for purge to start
+2017-02-08  9:11:00 140009004033856 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 3454307
+2017-02-08  9:11:00 140008618981120 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-08  9:11:00 140009004033856 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-08  9:11:00 140009004033856 [Note] Recovering after a crash using tc.log
+2017-02-08  9:11:00 140009004033856 [Note] Starting crash recovery...
+2017-02-08  9:11:00 140009004033856 [Note] Crash recovery finished.
+2017-02-08  9:11:01 140009004033856 [Note] Server socket created on IP: '::'.
+2017-02-08  9:11:01 140009004033856 [ERROR] mysqld: Table './mysql/db' is marked as crashed and should be repaired
+2017-02-08  9:11:01 140009004033856 [Warning] Checking table:   './mysql/db'
+2017-02-08  9:11:01 140009004033856 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2017-02-08  9:11:01 140009004033856 [ERROR] mysqld: Table './mysql/tables_priv' is marked as crashed and should be repaired
+2017-02-08  9:11:01 140009004033856 [Warning] Checking table:   './mysql/tables_priv'
+2017-02-08  9:11:01 140009004033856 [ERROR] mysql.tables_priv: 1 client is using or hasn't closed the table properly
+2017-02-08  9:11:01 140009004033856 [ERROR] mysqld: Table './mysql/columns_priv' is marked as crashed and should be repaired
+2017-02-08  9:11:01 140009004033856 [Warning] Checking table:   './mysql/columns_priv'
+2017-02-08  9:11:01 140009004033856 [ERROR] mysql.columns_priv: 1 client is using or hasn't closed the table properly
+2017-02-08  9:11:01 140009004033856 [ERROR] mysqld: Table './mysql/procs_priv' is marked as crashed and should be repaired
+2017-02-08  9:11:01 140009004033856 [Warning] Checking table:   './mysql/procs_priv'
+2017-02-08  9:11:01 140009004033856 [ERROR] mysql.procs_priv: 1 client is using or hasn't closed the table properly
+2017-02-08  9:11:01 140009004033856 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-08 18:28:58 1874 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-08 18:28:59 140654366422848 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-08 18:28:59 140654366422848 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2019 ...
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Using generic crc32 instructions
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: The log sequence numbers 3068521 and 3068521 in ibdata files do not match the log sequence number 3455418 in the ib_logfiles!
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Database was not shutdown normally!
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Starting crash recovery.
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: Restoring possible half-written data pages 
+2017-02-08 18:29:00 140654366422848 [Note] InnoDB: from the doublewrite buffer...
+2017-02-08 18:29:01 140654366422848 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-08 18:29:01 140654366422848 [Note] InnoDB: Waiting for purge to start
+2017-02-08 18:29:01 140654366422848 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 3455418
+2017-02-08 18:29:01 140653979748096 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-08 18:29:02 140654366422848 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-08 18:29:02 140654366422848 [Note] Recovering after a crash using tc.log
+2017-02-08 18:29:02 140654366422848 [Note] Starting crash recovery...
+2017-02-08 18:29:02 140654366422848 [Note] Crash recovery finished.
+2017-02-08 18:29:02 140654366422848 [Note] Server socket created on IP: '::'.
+2017-02-08 18:29:02 140654366422848 [ERROR] mysqld: Table './mysql/db' is marked as crashed and should be repaired
+2017-02-08 18:29:02 140654366422848 [Warning] Checking table:   './mysql/db'
+2017-02-08 18:29:02 140654366422848 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2017-02-08 18:29:02 140654366422848 [ERROR] mysqld: Table './mysql/tables_priv' is marked as crashed and should be repaired
+2017-02-08 18:29:02 140654366422848 [Warning] Checking table:   './mysql/tables_priv'
+2017-02-08 18:29:02 140654366422848 [ERROR] mysql.tables_priv: 1 client is using or hasn't closed the table properly
+2017-02-08 18:29:02 140654366422848 [ERROR] mysqld: Table './mysql/columns_priv' is marked as crashed and should be repaired
+2017-02-08 18:29:02 140654366422848 [Warning] Checking table:   './mysql/columns_priv'
+2017-02-08 18:29:02 140654366422848 [ERROR] mysql.columns_priv: 1 client is using or hasn't closed the table properly
+2017-02-08 18:29:02 140654366422848 [ERROR] mysqld: Table './mysql/procs_priv' is marked as crashed and should be repaired
+2017-02-08 18:29:02 140654366422848 [Warning] Checking table:   './mysql/procs_priv'
+2017-02-08 18:29:02 140654366422848 [ERROR] mysql.procs_priv: 1 client is using or hasn't closed the table properly
+2017-02-08 18:29:02 140654366422848 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-09 06:01:11 2276 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-09  6:01:12 140341570680640 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-09  6:01:12 140341570680640 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2425 ...
+2017-02-09  6:01:13 140341570680640 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-09  6:01:13 140341570680640 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-09  6:01:13 140341570680640 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-09  6:01:13 140341570680640 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-09  6:01:13 140341570680640 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-09  6:01:13 140341570680640 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-09  6:01:13 140341570680640 [Note] InnoDB: Using generic crc32 instructions
+2017-02-09  6:01:13 140341570680640 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-09  6:01:13 140341570680640 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-09  6:01:14 140341570680640 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-09  6:01:14 140341570680640 [Note] InnoDB: The log sequence numbers 3068521 and 3068521 in ibdata files do not match the log sequence number 3463127 in the ib_logfiles!
+2017-02-09  6:01:14 140341570680640 [Note] InnoDB: Database was not shutdown normally!
+2017-02-09  6:01:14 140341570680640 [Note] InnoDB: Starting crash recovery.
+2017-02-09  6:01:14 140341570680640 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-02-09  6:01:15 140341570680640 [Note] InnoDB: Restoring possible half-written data pages 
+2017-02-09  6:01:15 140341570680640 [Note] InnoDB: from the doublewrite buffer...
+2017-02-09  6:01:16 140341570680640 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-09  6:01:16 140341570680640 [Note] InnoDB: Waiting for purge to start
+2017-02-09  6:01:16 140341570680640 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 3463127
+2017-02-09  6:01:17 140341306906368 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-09  6:01:17 140341570680640 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-09  6:01:17 140341570680640 [Note] Recovering after a crash using tc.log
+2017-02-09  6:01:17 140341570680640 [Note] Starting crash recovery...
+2017-02-09  6:01:17 140341570680640 [Note] Crash recovery finished.
+2017-02-09  6:01:17 140341570680640 [Note] Server socket created on IP: '::'.
+2017-02-09  6:01:17 140341570680640 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-09 21:23:02 5355 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-09 21:23:02 139841523103552 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-09 21:23:02 139841523103552 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 5504 ...
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Using generic crc32 instructions
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: The log sequence numbers 3068521 and 3068521 in ibdata files do not match the log sequence number 3463137 in the ib_logfiles!
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Database was not shutdown normally!
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Starting crash recovery.
+2017-02-09 21:23:03 139841523103552 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-02-09 21:23:04 139841523103552 [Note] InnoDB: Restoring possible half-written data pages 
+2017-02-09 21:23:04 139841523103552 [Note] InnoDB: from the doublewrite buffer...
+2017-02-09 21:23:04 139841523103552 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-09 21:23:04 139841523103552 [Note] InnoDB: Waiting for purge to start
+2017-02-09 21:23:04 139841523103552 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 3463137
+2017-02-09 21:23:04 139841140401920 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-09 21:23:05 139841523103552 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-09 21:23:05 139841523103552 [Note] Recovering after a crash using tc.log
+2017-02-09 21:23:05 139841523103552 [Note] Starting crash recovery...
+2017-02-09 21:23:05 139841523103552 [Note] Crash recovery finished.
+2017-02-09 21:23:05 139841523103552 [Note] Server socket created on IP: '::'.
+2017-02-09 21:23:05 139841523103552 [ERROR] mysqld: Table './mysql/db' is marked as crashed and should be repaired
+2017-02-09 21:23:05 139841523103552 [Warning] Checking table:   './mysql/db'
+2017-02-09 21:23:05 139841523103552 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2017-02-09 21:23:05 139841523103552 [ERROR] mysqld: Table './mysql/tables_priv' is marked as crashed and should be repaired
+2017-02-09 21:23:05 139841523103552 [Warning] Checking table:   './mysql/tables_priv'
+2017-02-09 21:23:05 139841523103552 [ERROR] mysql.tables_priv: 1 client is using or hasn't closed the table properly
+2017-02-09 21:23:05 139841523103552 [ERROR] mysqld: Table './mysql/columns_priv' is marked as crashed and should be repaired
+2017-02-09 21:23:05 139841523103552 [Warning] Checking table:   './mysql/columns_priv'
+2017-02-09 21:23:05 139841523103552 [ERROR] mysql.columns_priv: 1 client is using or hasn't closed the table properly
+2017-02-09 21:23:05 139841523103552 [ERROR] mysqld: Table './mysql/procs_priv' is marked as crashed and should be repaired
+2017-02-09 21:23:05 139841523103552 [Warning] Checking table:   './mysql/procs_priv'
+2017-02-09 21:23:05 139841523103552 [ERROR] mysql.procs_priv: 1 client is using or hasn't closed the table properly
+2017-02-09 21:23:05 139841523103552 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-10  8:56:53 139841271065344 [Note] Event Scheduler: scheduler thread started with id 149
+2017-02-10 21:56:12 1896 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-10 21:56:13 139983608375104 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-10 21:56:13 139983608375104 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2041 ...
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Using generic crc32 instructions
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: The log sequence numbers 3068521 and 3068521 in ibdata files do not match the log sequence number 3475643 in the ib_logfiles!
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Database was not shutdown normally!
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Starting crash recovery.
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Reading tablespace information from the .ibd files...
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: Restoring possible half-written data pages 
+2017-02-10 21:56:14 139983608375104 [Note] InnoDB: from the doublewrite buffer...
+2017-02-10 21:56:15 139983608375104 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-10 21:56:15 139983608375104 [Note] InnoDB: Waiting for purge to start
+2017-02-10 21:56:15 139983608375104 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 3475643
+2017-02-10 21:56:15 139983226652416 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-10 21:56:15 139983608375104 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-10 21:56:15 139983608375104 [Note] Recovering after a crash using tc.log
+2017-02-10 21:56:15 139983608375104 [Note] Starting crash recovery...
+2017-02-10 21:56:15 139983608375104 [Note] Crash recovery finished.
+2017-02-10 21:56:15 139983608375104 [Note] Server socket created on IP: '::'.
+2017-02-10 21:56:15 139983608375104 [ERROR] mysqld: Table './mysql/db' is marked as crashed and should be repaired
+2017-02-10 21:56:15 139983608375104 [Warning] Checking table:   './mysql/db'
+2017-02-10 21:56:15 139983608375104 [ERROR] mysql.db: 1 client is using or hasn't closed the table properly
+2017-02-10 21:56:15 139983608375104 [ERROR] mysqld: Table './mysql/tables_priv' is marked as crashed and should be repaired
+2017-02-10 21:56:15 139983608375104 [Warning] Checking table:   './mysql/tables_priv'
+2017-02-10 21:56:15 139983608375104 [ERROR] mysql.tables_priv: 1 client is using or hasn't closed the table properly
+2017-02-10 21:56:15 139983608375104 [ERROR] mysqld: Table './mysql/columns_priv' is marked as crashed and should be repaired
+2017-02-10 21:56:15 139983608375104 [Warning] Checking table:   './mysql/columns_priv'
+2017-02-10 21:56:15 139983608375104 [ERROR] mysql.columns_priv: 1 client is using or hasn't closed the table properly
+2017-02-10 21:56:15 139983608375104 [ERROR] mysqld: Table './mysql/procs_priv' is marked as crashed and should be repaired
+2017-02-10 21:56:15 139983608375104 [Warning] Checking table:   './mysql/procs_priv'
+2017-02-10 21:56:15 139983608375104 [ERROR] mysql.procs_priv: 1 client is using or hasn't closed the table properly
+2017-02-10 21:56:15 139983608375104 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution
+2017-02-11 11:23:32 139983521340160 [Note] /opt/lampp/sbin/mysqld: Normal shutdown
+
+2017-02-11 11:23:33 139983521340160 [Note] Event Scheduler: Purging the queue. 0 events
+2017-02-11 11:23:40 139983209867008 [Note] InnoDB: FTS optimize thread exiting.
+2017-02-11 11:23:40 139983521340160 [Note] InnoDB: Starting shutdown...
+2017-02-11 11:23:44 139983521340160 [Note] InnoDB: Waiting for page_cleaner to finish flushing of buffer pool
+2017-02-11 11:23:46 139983521340160 [Note] InnoDB: Shutdown completed; log sequence number 3575097
+2017-02-11 11:23:47 139983521340160 [Note] /opt/lampp/sbin/mysqld: Shutdown complete
+
+2017-02-11 11:23:47 1896 mysqld_safe mysqld from pid file /opt/lampp/var/mysql/gadaranoni.pid ended
+2017-02-11 11:50:57 2132 mysqld_safe Starting mysqld daemon with databases from /opt/lampp/var/mysql
+2017-02-11 11:50:58 140032316090176 [Note] Using unique option prefix 'key_buffer' is error-prone and can break in the future. Please use the full name 'key_buffer_size' instead.
+2017-02-11 11:50:58 140032316090176 [Note] /opt/lampp/sbin/mysqld (mysqld 10.1.19-MariaDB) starting as process 2279 ...
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: innodb_empty_free_list_algorithm has been changed to legacy because of small buffer pool size. In order to use backoff, increase buffer pool at least up to 20MB.
+
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: Using mutexes to ref count buffer pool pages
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: The InnoDB memory heap is disabled
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: Mutexes and rw_locks use GCC atomic builtins
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: GCC builtin __sync_synchronize() is used for memory barrier
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: Compressed tables use zlib 1.2.8
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: Using generic crc32 instructions
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: Initializing buffer pool, size = 16.0M
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: Completed initialization of buffer pool
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: Highest supported file format is Barracuda.
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: 128 rollback segment(s) are active.
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB: Waiting for purge to start
+2017-02-11 11:50:59 140032316090176 [Note] InnoDB:  Percona XtraDB (http://www.percona.com) 5.6.32-79.0 started; log sequence number 3575097
+2017-02-11 11:51:00 140032060057344 [Note] InnoDB: Dumping buffer pool(s) not yet started
+2017-02-11 11:51:00 140032316090176 [Note] Plugin 'FEEDBACK' is disabled.
+2017-02-11 11:51:00 140032316090176 [Note] Server socket created on IP: '::'.
+2017-02-11 11:51:00 140032316090176 [Note] /opt/lampp/sbin/mysqld: ready for connections.
+Version: '10.1.19-MariaDB'  socket: '/opt/lampp/var/mysql/mysql.sock'  port: 3306  Source distribution

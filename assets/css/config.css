@@ -1,0 +1,141 @@
+#logo h3
+{
+	font-family:'Lato-Thin';
+	color:#58c9fa;
+	font-family:'Montserrat-Bold',sans-serif;
+}
+
+#login-form input[type="email"],input[type="text"],input[type="password"]
+{
+	background:#ebeced;
+	font-family:'Montserrat-Bold',sans-serif;
+	font-size:13px;
+}
+
+#login-form input[type="password"]
+{
+	background:#ebeced;
+	font-family:'Montserrat-Bold',sans-serif;
+	font-size:13px;
+}
+
+#login-form input[type="submit"]
+{
+	background: #54acd2;
+	color:white;
+	font-family:'Montserrat-Bold',sans-serif;
+	font-size:13px;
+	margin-top:20px;
+}
+
+#form-background
+{
+	background-color:#f3f3f3;
+	height:545px;
+	width:400px;
+	margin:0px auto;
+}
+
+#or
+{
+	margin:0px auto;
+	text-align:center;
+	background:#ebeced;
+	padding:10px;
+	border-radius:150px;
+	width:40px;
+	color:#c8c6c6;
+	font-family:'Montserrat-Bold',sans-serif;
+	font-size:12px;
+}
+
+#login-with-facebook
+{
+	margin:0px auto;
+	background:#48629b;
+	width:300px;
+	margin-top:15px;
+	margin-bottom:15px;
+}
+
+#login-with-facebook a
+{
+	color:white;
+	text-decoration:none;
+	font-family:'Montserrat-Bold',sans-serif;
+	font-size:13px;
+}
+
+#login-with-twitter
+{
+	margin:0px auto;
+	background:#23b0e6;
+	width:300px;
+}
+
+#login-with-twitter a
+{
+	color:white;
+	text-decoration:none;
+	font-family:'Montserrat-Bold',sans-serif;
+	font-size:13px;
+}
+
+#login-with-google
+{
+	margin:0px auto;
+	background:#dc4b38;
+	width:300px;
+	margin-top:15px;
+}
+
+#login-with-google a
+{
+	color:white;
+	text-decoration:none;
+	font-family:'Montserrat-Bold',sans-serif;
+	font-size:13px;
+}
+
+#forgot-password
+{
+	text-align:center;
+	margin-top:10px;
+}
+
+#forgot-password a
+{
+	text-align:center;
+	color:#d1d3d5;
+	text-decoration:none;
+	font-family:'Montserrat-Bold',sans-serif;
+}
+
+#forgot-password a:hover
+{
+	color:#BCBEBF;
+}
+
+#signup
+{
+	text-align:center;
+	margin-top:10px;
+	color:#d1d3d5;
+	font-family:'Montserrat-Bold',sans-serif;
+}
+
+#signup a
+{
+	text-align:center;
+	color:#d1d3d5;
+	text-decoration:none;
+	font-family:'Montserrat-Bold',sans-serif;
+}
+
+#signup a:hover
+{
+	text-align:center;
+	color:#BCBEBF;
+	text-decoration:none;
+	font-family:'Montserrat-Bold',sans-serif;
+}

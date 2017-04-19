@@ -1,0 +1,214 @@
+.f-custom
+{
+	margin-top:20px;
+	margin-bottom:auto;
+}
+
+.title-form
+{
+	margin-bottom:15px;
+	margin-top:20px;
+	color:#00A3E7;
+}
+
+.title-form h4
+{
+	text-transform:uppercase;
+	text-align:center;
+	font-family:"Montserrat-Bold",sans-serif;
+}
+
+::-webkit-input-placeholder {
+    color:    #999;
+}
+:-moz-placeholder {
+    color:    #999;
+}
+::-moz-placeholder {
+    color:    #999;
+}
+:-ms-input-placeholder {
+    color:    #999;
+}
+
+input[type="text"]
+{
+	color:#aaa;
+	font-size:20px;
+	border-radius:20px 20px 20px 20px;
+}
+
+.login-form-custom input[type="text"]
+{
+	margin-bottom:15px;
+	font-size:14px;
+	font-family:"Montserrat-Regular",sans-serif;
+	color:#777;
+	background-color:#2B333D;
+}
+
+.login-form-custom input[type="password"]
+{
+	margin-bottom:15px;
+	font-size:14px;
+	font-family:"Montserrat-Regular",sans-serif;
+	color:#777;
+	background-color:#2B333D;
+}
+
+#nik::-webkit-input-placeholder
+{
+	color:#ddd;
+	font-size:12px;
+}
+
+#nik::-moz-placeholder
+{
+	color:#ddd;
+	font-size:12px;
+}
+
+#euname::-webkit-input-placeholder
+{
+	color:#ddd;
+	font-size:12px;
+}
+
+#euname::-moz-placeholder
+{
+	color:#ddd;
+	font-size:12px;
+}
+
+#upass::-webkit-input-placeholder
+{
+	color:#ddd;
+	font-size:12px;
+}
+
+#upass::-moz-placeholder
+{
+	color:#ddd;
+	font-size:12px;
+}
+
+#nm {
+	color:#ddd;
+	border-radius:20px 20px 20px 20px;
+}
+
+#almt {
+	color:#ddd;
+	border-radius:20px 20px 20px 20px;
+}
+
+
+#nik {
+	color:#ddd;
+	border-radius:20px 20px 20px 20px;
+}
+
+#telp {
+	color:#ddd;
+	border-radius:20px 20px 20px 20px;
+}
+
+#euname
+{
+	color:#ddd;
+	border-radius:20px 20px 20px 20px;
+}
+
+#upass
+{
+	color:#ddd;
+	border-radius:20px 20px 20px 20px;
+}
+
+.submit-button-custom input[type="submit"]
+{
+	text-transform:uppercase;
+	font-family:"Montserrat-Bold",sans-serif;
+	margin-bottom:0px;
+	background-color:#23a5dc;
+	border-radius:20px 20px 20px 20px;
+}
+
+.submit-button-custom input[type="submit"]:hover
+{
+	background-color:#23a5dc;
+}
+
+.submit-button-custom input[type="submit"]:active
+{
+	background-color:#23a5dc;
+	outline:none;
+}
+
+.new-user
+{
+	text-align:center;
+}
+
+.title-of-card
+{
+	color:#ddd;
+	font-family:'Montserrat-Regular',sans-serif;
+}
+
+.description-of-card a
+{
+	color:#00A3E7;
+	font-family:'Montserrat-Regular';
+	text-decoration:none;
+}
+
+.or-design
+{
+	text-align:center;
+	color:#ccc;
+	text-transform:uppercase;
+	margin:0 auto;
+	font-size: 12px;
+	font-family:"Montserrat-Bold",sans-serif;
+}
+
+.sosmed-login
+{
+	text-align:center;
+	text-transform:uppercase;
+	font-family:"Montserrat-Bold",sans-serif;
+	color:#ddd;
+}
+
+.sosmed-login #facebook
+{
+	background:#48629b;
+	width:300px;
+	margin:0px auto;
+	margin-top:15px;
+	margin-bottom:15px;
+	padding:10px;
+	border-radius:20px 20px 20px 20px;
+	cursor:pointer;
+}
+
+.sosmed-login #gmail
+{
+	background:#dc4b38;
+	width:300px;
+	margin:0px auto;
+	margin-top:15px;
+	margin-bottom:15px;
+	padding:10px;
+	border-radius:20px 20px 20px 20px;
+	cursor:pointer;
+}
+
+.logo h3
+{
+	text-align:center;
+	color:#29bfff;
+	font-size:50px;
+	font-family:'Lobster';
+}

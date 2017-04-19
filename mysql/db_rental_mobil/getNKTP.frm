@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `db_rental_mobil`.`pelanggan`.`NoKTP` AS `noktp` from `db_rental_mobil`.`pelanggan`
+md5=3e75729383e95d94be2b14cce52e64bc
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2017-01-25 04:49:57
+create-version=2
+source=SELECT noktp FROM pelanggan
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_unicode_ci
+view_body_utf8=select `db_rental_mobil`.`pelanggan`.`NoKTP` AS `noktp` from `db_rental_mobil`.`pelanggan`
+mariadb-version=100119

@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `db_rental_mobil`.`sopir`.`IDSopir` AS `IDSopir` from `db_rental_mobil`.`sopir`
+md5=f0ed2854fa359efc7d0e4f1821ed53d3
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2017-01-25 17:31:43
+create-version=2
+source=SELECT IDSopir FROM sopir
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_unicode_ci
+view_body_utf8=select `db_rental_mobil`.`sopir`.`IDSopir` AS `IDSopir` from `db_rental_mobil`.`sopir`
+mariadb-version=100119

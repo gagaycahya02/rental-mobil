@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select `db_rental_mobil`.`pelanggan`.`NoKTP` AS `NoKTP`,`db_rental_mobil`.`pelanggan`.`NamaPel` AS `NamaPel`,`db_rental_mobil`.`pelanggan`.`AlamatPel` AS `AlamatPel`,`db_rental_mobil`.`pelanggan`.`TelpPel` AS `TelpPel` from `db_rental_mobil`.`pelanggan`
+md5=38a634d33afdd8eea01e203b97a94aae
+updatable=1
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2017-01-25 16:36:22
+create-version=2
+source=SELECT * FROM pelanggan
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_unicode_ci
+view_body_utf8=select `db_rental_mobil`.`pelanggan`.`NoKTP` AS `NoKTP`,`db_rental_mobil`.`pelanggan`.`NamaPel` AS `NamaPel`,`db_rental_mobil`.`pelanggan`.`AlamatPel` AS `AlamatPel`,`db_rental_mobil`.`pelanggan`.`TelpPel` AS `TelpPel` from `db_rental_mobil`.`pelanggan`
+mariadb-version=100119

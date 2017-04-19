@@ -1,0 +1,16 @@
+TYPE=VIEW
+query=select count(0) AS `COUNT(*)` from `db_rental_mobil`.`karyawan`
+md5=620b327894fc6c7c560912e5a00ac1b2
+updatable=0
+algorithm=0
+definer_user=root
+definer_host=localhost
+suid=2
+with_check_option=0
+timestamp=2017-01-23 07:18:50
+create-version=2
+source=SELECT COUNT(*) FROM karyawan
+client_cs_name=utf8mb4
+connection_cl_name=utf8mb4_unicode_ci
+view_body_utf8=select count(0) AS `COUNT(*)` from `db_rental_mobil`.`karyawan`
+mariadb-version=100119
